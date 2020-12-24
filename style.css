@@ -7,8 +7,8 @@ div {
 }
 
 #faultyItems {
-    visibility: visible;
-    /* visibility: hidden;    */
+    /* visibility: visible; */
+    visibility: hidden;   
 }
 
 #launchForm {
